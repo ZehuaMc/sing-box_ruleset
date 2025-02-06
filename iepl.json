@@ -3,9 +3,13 @@
   "rules": [
     {
       "domain": [
-        "www.google.com"
+        "www.google.com",
+        "accounts.google.com",
+        "play.google.com"
       ],
       "domain_suffix": [
+        "termius.com",
+        "github.com",
         "nodeseek.com",
         "linux.do",
         "cloudflare.com"
