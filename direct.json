@@ -1,7 +1,24 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
+      "domain": [
+        "selfhost.200502.xyz"
+      ],
+      "domain_suffix": [
+        "223387.xyz",
+        "tizi888.me",
+        "nezha.tech",
+        "oscc.cc",
+        "520300.xyz",
+        "huafei888.site",
+        "speed.neu6.edu.cn",
+        "v6.ident.me",
+        "6.ipw.cn",
+        "v6.yinghualuo.cn"
+      ],
+      "domain_keyword": [
+      ],
       "package_name": [
         "com.oplus.healthservice",
         "com.quark.browser",
