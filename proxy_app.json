@@ -1,4 +1,3 @@
-{
   "version": 3,
   "rules": [
     {
@@ -26,7 +25,24 @@
         "com.valvesoftware.android.steam.community",
         "idm.internet.download.manager.plus",
         "com.hush.yamby",
-        "com.ninjakiwi.bloonstd6epic"
+        "com.ninjakiwi.bloonstd6epic",
+        "com.google.android.youtube",
+        "com.google.android.googlequicksearchbox",
+        "org.telegram.messenger",
+        "com.google.android.setupwizard",
+        "com.android.webview",
+        "com.google.android.apps.wellbeing",
+        "com.google.android.syncadapters.contacts",
+        "com.google.android.tts",
+        "com.google.android.partnersetup",
+        "org.lineageos.jelly",
+        "com.google.android.feedback",
+        "com.google.android.syncadapters.calendar",
+        "com.android.soundpicker",
+        "com.orion.notein",
+        "com.google.android.projection.gearhead",
+        "com.positron_it.zlib",
+        "com.google.android.apps.restore"
       ]
     }
   ]
