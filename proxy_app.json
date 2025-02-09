@@ -43,7 +43,8 @@
         "com.orion.notein",
         "com.google.android.projection.gearhead",
         "com.positron_it.zlib",
-        "com.google.android.apps.restore"
+        "com.google.android.apps.restore",
+        "org.lineageos.updater"
       ]
     }
   ]
