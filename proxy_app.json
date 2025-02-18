@@ -15,6 +15,7 @@
         "com.android.mtp",
         "com.google.android.gm",
         "com.microsoft.emmx",
+        "com.microsoft.emmx.canary",
         "com.google.android.webview",
         "com.server.auditor.ssh.client",
         "com.google.android.gms",
