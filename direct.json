@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "selfhost.200502.xyz"
+        "selfhost.200502.xyz",
+        "ai-15195594255141ai828183086237.services.ai.azure.com"
       ],
       "domain_suffix": [
         "223387.xyz",
