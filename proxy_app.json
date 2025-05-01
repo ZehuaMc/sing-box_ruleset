@@ -46,6 +46,7 @@
         "com.positron_it.zlib",
         "com.google.android.apps.restore",
         "org.lineageos.updater",
+        "com.twitter.android",
         "com.discord"
       ]
     }
