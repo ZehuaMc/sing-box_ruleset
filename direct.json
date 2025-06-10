@@ -3,17 +3,11 @@
   "rules": [
     {
       "domain": [
-        "selfhost.200502.xyz",
-        "ai-15195594255141ai828183086237.services.ai.azure.com"
+        "selfhost.200502.xyz"
       ],
       "domain_suffix": [
         "xiaozhixiaoyuan.com",
-        "223387.xyz",
-        "tizi888.me",
-        "nezha.tech",
         "oscc.cc",
-        "520300.xyz",
-        "huafei888.site",
         "speed.neu6.edu.cn",
         "v6.ident.me",
         "6.ipw.cn",
