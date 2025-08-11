@@ -3,7 +3,14 @@
   "rules": [
     {
       "domain": [
-        "selfhost.200502.xyz"
+        "selfhost.200502.xyz",
+        "lobe.200502.xyz",
+        "auth.200502.xyz",
+        "minio.200502.xyz",
+        "passwd.200502.xyz",
+        "200502.xyz",
+        "st.200502.xyz",
+        "home.200502.xyz"
       ],
       "domain_suffix": [
         "xiaozhixiaoyuan.com",
