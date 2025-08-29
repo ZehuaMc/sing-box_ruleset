@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "process_name": [
+        "QQ",
+        "QQ.exe",
+        "qq.exe",
+        "qq",
+        "Weixin",
+        "Weixin.exe",
+        "wechat"
+      ]
+    }
+  ]
+}
