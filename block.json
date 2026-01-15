@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ping0.cc",
+        "iplark.com",
+        "ippure.com"
+      ]
+    }
+  ]
+}
